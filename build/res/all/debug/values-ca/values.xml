@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/hocklo/AndroidStudioProjects/com.who.drive.carProject/com.who.drive.car/src/main/res/values-ca/strings.xml -->
+    <eat-comment />
+
+    <string name="add_person">Afegeix conductor</string>
+    <string name="hello_world">Hola Mon!</string>
+    <string name="name_placeholder">Ex: Marc</string>
+    <string name="slct_person">Selecciona conductor/s</string>
+
+</resources>

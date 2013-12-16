@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="add_person">Afegeix conductor</string>
+    <string name="hello_world">Hola Mon!</string>
+    <string name="name_placeholder">Ex: Marc</string>
+    <string name="slct_person">Selecciona conductor/s</string>
+
+</resources>

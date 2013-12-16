@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">com.who.drive.car</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_person">Add driver/s</string>
+    <string name="name_placeholder">Ex: Peter</string>
+    <string name="slct_person">Select driver/s</string>
+</resources>
